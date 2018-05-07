@@ -118,6 +118,10 @@ Object Oriented Programming and Design, Functional Programming, Design Patterns,
 Atlassian tools (JIRA, Confluence, BitBucket, HipChat,
 Bamboo), CI Tools(Jenkins, AppVeyor), Git, SVN, TFS, GitLab, GitHub, Docker.
 
+### Soft Skills
+
+Self-motivation, Teamwork, Creativity, Communication, Decision Making, Time Management, Conflict Resolution, Leadership, Adaptability.
+
 ### Other
 
 Python 3, PyLab, PyPlot, Flask, PyUnit, Non-commercial experience with Haskell, Java, Rascal, Haskell, R.
