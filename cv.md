@@ -2,6 +2,8 @@
 
 ## Summary
 
+Doing stuff with .NET, ASP.NET MVC, Angular and Roslyn. Also, I love and hate JavaScript at the same time(thank you TypeScript!). And let's sprinkle a bit of Python to keep things interesting.
+
 ## Work Experience
 
 ---
