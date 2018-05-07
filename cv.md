@@ -6,7 +6,6 @@ Doing stuff with .NET, ASP.NET MVC, Angular and Roslyn. Also, I love and hate Ja
 
 ## Work Experience
 
----
 **Honeybee Solutions** - **Lead Software Engineer** - Sofia, Bulgaria - _October 2017 - Now_
 
 As a Lead Software Engineer, my duties included:
@@ -75,7 +74,6 @@ A fast paced introduction to software development, including
 
 ## Education
 
----
 **MSc Software Engineering** - **University of Amsterdam** - Amsterdam, The Netherlands - 5.9/6 GPA
 
 - An intense, one year, master program in software engineering.
@@ -128,8 +126,6 @@ Python 3, PyLab, PyPlot, Flask, PyUnit, Non-commercial experience with Haskell, 
 
 ## Projects and Open Source Contribution
 
----
-
 ### Software University Learning System(SULS)
 
 E-learning system consisting of various modules built using the .NET stack (ASP.NET MVC/Web API, Microsoft SQL Server, Entity Framework), HTML5, JavaScript, KendoUI, etc.
@@ -177,8 +173,6 @@ Taking part in the writing and editing of the "Programming Basics with C#/Java/J
 A practical research project dedicated to developing a new approach for automatically recommending move module refactorings. The implementation of the new approach was done using the .NET Framework and the Roslyn compiler. R and Python were used for data analysis and visualization.
 
 ## Certificates
-
----
 
 ### Microsoft
 
@@ -295,7 +289,6 @@ A practical research project dedicated to developing a new approach for automati
 
 ## Volunteer Work
 
----
 **Software University Foundation** - **Technical Writer** - Sofia, Bulgaria
 
 Wrote several chapters for the 'Introduction to Programming' books published by the Software University Foundation.
