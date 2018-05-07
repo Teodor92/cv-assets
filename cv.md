@@ -170,24 +170,122 @@ Taking part in the writing and editing of the "Programming Basics with C#/Java/J
 
 A practical research project dedicated to developing a new approach for automatically recommending move module refactorings. The implementation of the new approach was done using the .NET Framework and the Roslyn compiler. R and Python were used for data analysis and visualization.
 
-
 ## Certificates
 
 ---
 
 ### Microsoft
 
+- [MS: Programming in HTML5 with JavaScript and CSS3](http://www.mycertprofile.com/Profile/154807205/90/1485/share)
+- [MCSD: Web Applications](http://www.mycertprofile.com/Profile/154807205/89/1477/share)
+
 ---
 
 ### Telerik Academy
+
+- [Telerik Software Academy 2012-2013](http://telerikacademy.com/Certificates/View/456/6e3e7bf8)
+- [.NET Developer](http://telerikacademy.com/Certificates/View/540/e7c903af)
+- [Windows 8 XAML Developer](http://telerikacademy.com/Certificates/View/489/ed236374)
+- [XAML Front-End Developer](http://telerikacademy.com/Certificates/View/521/cd578fbb)
+- [ASP.NET Web Developer](http://telerikacademy.com/Certificates/View/203/72445fb4)
+- [JavaScript Developer](http://telerikacademy.com/Certificates/View/253/6d38a5c2)
+- [Mobile Application Developer](http://telerikacademy.com/Certificates/View/311/f9d4060d)
+- [Web Front-End Developer](http://telerikacademy.com/Certificates/View/179/4a7210f8)
+- [Windows 8 JavaScript Developer](http://telerikacademy.com/Certificates/View/308/86b21706)
+- [Server-Side Developer](http://telerikacademy.com/Certificates/View/96/7f0a8f15)
+- [C# Programer](http://telerikacademy.com/Certificates/View/7/bc6edcc4)
+- [Website Developer](http://telerikacademy.com/Certificates/View/55/28961055)
+
+---
+
+### Stanford Lagunita
+
+- [CS: Mining Massive Datasets](https://prod-cert-bucket.s3.amazonaws.com/downloads/57cbeee009a94cf9a05d95c0d26456f8/Statement.pdf)
+- [SciWrite: Writing in the Sciences](https://prod-cert-bucket.s3.amazonaws.com/downloads/62f3a890414e498fae736aca4bb10f11/Statement.pdf)
+- [CS1: Compilers](https://prod-cert-bucket.s3.amazonaws.com/downloads/490ffb6b4e6846aaba1cb0abefdd0a3a/Statement.pdf)
+- [StatLearning: Statistical Learning](https://prod-cert-bucket.s3.amazonaws.com/downloads/dc9977f45cbc4579b0c14a74e2a47c6d/Statement.pdf)
+- [DB13: On-Line Analytical Processing(OLAP)](https://prod-cert-bucket.s3.amazonaws.com/downloads/7bce6aa5545d49c0ad3e0fb40ddefc7a/Statement.pdf)
+- [DB11: Constraints and Triggers](https://prod-cert-bucket.s3.amazonaws.com/downloads/852d60c35df04f8f99eec5831955523d/Statement.pdf)
+- [DB6: XPath and XQuery](https://prod-cert-bucket.s3.amazonaws.com/downloads/99dbaa719a374ae6a2c6eb131174076c/Statement.pdf)
+- [DB5: SQL](https://prod-cert-bucket.s3.amazonaws.com/downloads/6d25ac2e14a0478ca645715b07285645/Statement.pdf)
+- [DB3: JSON Data](https://prod-cert-bucket.s3.amazonaws.com/downloads/fa241dab893e48509d5d950c371471d4/Statement.pdf)
+- [DB2: XML Data](https://prod-cert-bucket.s3.amazonaws.com/downloads/a36015f20f2440059f8c04139de67bcf/Statement.pdf)
 
 ---
 
 ### edX
 
+- [AdelaideX - Code101x: Think. Create. Code.](https://courses.edx.org/certificates/bfc6f525e728427a8b64b55a75fd9009)
+- [AdelaideX - Project101x: Introduction to Project Management](https://courses.edx.org/certificates/62f3436f80444161848b266f9040be01)
+- [BUx - Math226.1x: Introduction to Differential Equations](https://courses.edx.org/certificates/33162534c022473896c63743ca46b1a7)
+- [BUx - Math226.2x: Linear Differential Equations](https://courses.edx.org/certificates/e4a2323d7f30496aad05f3ad49fbb457)
+- [BerkeleyX - CS169.1x: Engineering Software as a Service, Part 1](https://courses.edx.org/certificates/f9f3f748115b487796705eea9b8d7467)
+- [BerkeleyX - CS169.2x: Engineering Software as a Service, Part 2](https://courses.edx.org/certificates/084e66e1d8c04fa4af7a8e491b293441)
+- [Catalystx - IL5x: Inclusive Leadership Training: Leading with Effective Communication](https://courses.edx.org/certificates/90c3581d284d4ed6bcfb64b1c7aa5e51)
+- [ColumbiaX - DS102X: Machine Learning for Data Science and Analytics](https://courses.edx.org/certificates/3aed4b9a9dbb4d9fb5573588366b040e)
+- [ColumbiaX - DS103x: Enabling Technologies for Data Science and Analytics: The Internet of Things](https://courses.edx.org/certificates/65ab0ec1807046c8a6c8bd860830d4ae)
+- [DelftX - FP101x: Introduction to Functional Programming](https://courses.edx.org/certificates/504e9fd1758a439f8915dd52b2295f90)
+- [DelftX - OG101x: Open Government](https://courses.edx.org/certificates/2c94418e937b4ac3941afa1a09250b7d)
+- [FullbridgeX - Career Edge 1x: Design Your Career](https://courses.edx.org/certificates/be468a9bb4ea4962848eed08b4106c2e)
+- [FullbridgeX - Career Edge 2x: Communication and Teamwork](https://courses.edx.org/certificates/fbea1d6531714c4fa302dc5555092029)
+- [FullbridgeX - Career Edge 3x: Business and Data Analysis](https://courses.edx.org/certificates/74ef46ba2e85438fb6942a23a945cac6)
+- [FullbridgeX - Career Edge 4x: Analytical Problem Solving and Design Thinking](https://courses.edx.org/certificates/56d07bde6a1d451eb4843c00d59e8d50)
+- [FullbridgeX - Career Edge 5x: Resume, Networking, and Interview Skills](https://courses.edx.org/certificates/03fb4cb0263445dbb148ad035e8a94b8)
+- [HKPolyUx - ISE101x: Knowledge Management and Big Data in Business](https://courses.edx.org/certificates/fcecafe78ac84e6d9dd39f345d122d18)
+- [HKUSTx - COMP102.1x: Introduction to Java Programming - Part 1](https://s3.amazonaws.com/verify.edx.org/downloads/199e5bb60db04723b94cc37aa42f47f1/Certificate.pdf)
+- [IIMBx - IS110x: Innovation and Information Technology Management](https://courses.edx.org/certificates/44e8565dafc04514b781420df3d11c80)
+- [LinuxFoundationX - LFS101x.2: Introduction to Linux](https://s3.amazonaws.com/verify.edx.org/downloads/bab6711fecfa4168a80f90b09616969b/Certificate.pdf)
+- [MITx - 18.01.3x: Calculus 1C: Coordinate systems and infinite series](https://courses.edx.org/certificates/af4c61ec7e354d9dac1b3b91c11470e2)
+- [MITx - 6.00.1x: Introduction to Computer Science and Programming Using Python](https://courses.edx.org/certificates/6ed5576684694604b691b4c70e231fff)
+- [MITx - 6.00.2x: Introduction to Computational Thinking and Data Science](https://courses.edx.org/certificates/2bd7b9c33cba4cbf802dc5beda45349e)
+- [MichiganX - DS101x: Data Science Ethics](https://courses.edx.org/certificates/9b5ee87da68047679b533918bb9a4915)
+- [Microsoft - DAT201x: Querying with Transact-SQL](https://courses.edx.org/certificates/0d9e6e023dd04e308bb530a1f4e4b06d)
+- [Microsoft - DAT202.3x: Implementing Predictive Analytics with Spark in Azure HDInsight](https://courses.edx.org/certificates/e2a71098f5b24050b078bf3b965bca47)
+- [Microsoft - DAT203x: Data Science and Machine Learning Essentials](https://courses.edx.org/certificates/2d0f78ef4da34bd9951cd52e4aa15219)
+- [Microsoft - DAT206x: Analyzing and Visualizing Data with Excel](https://courses.edx.org/certificates/505317280f1a43d2befc4e437a3b6bed)
+- [Microsoft - DEV204x: Programming with C#](https://courses.edx.org/certificates/e932a55c3928418cbda6687daf1573b4)
+- [Microsoft - DEV205x: Architecting Microsoft Azure Solutions](https://courses.edx.org/certificates/b925397876074ec3b6a4bed21f76c0fd)
+- [Microsoft - DEV208x: Introduction to jQuery](https://courses.edx.org/certificates/1970a4a20df84187a9995e9656c89a8d)
+- [Microsoft - DIS50.2: Developing International Software: Part 2](https://courses.edx.org/certificates/645bd0da4b824ae1a7a51e9da2234cfe)
+- [Microsoft - INF201.22x: Optimizing Microsoft Windows Server Storage](https://courses.edx.org/certificates/9df91ae66d3d409490050097e0342ad9)
+- [MongoDBx - M101x: Introduction to MongoDB using the MEAN Stack](https://courses.edx.org/certificates/5883c28f2e9248d99a8b35d7d685758a)
+- [UC3Mx - IM.1x: Introduction to Management Information Systems (MIS)](https://courses.edx.org/certificates/80af1f2c823b463c9504a3e1e2e1c071)
+- [UC3Mx - INF.1x: The Software Architect Code: Building the Digital World](https://courses.edx.org/certificates/4cf2bb868a234519b79d3c2946b51eef)
+- [UC3Mx - IT.1.1x: Introduction to Programming with Java - Part 1: Starting to Code with Java](https://courses.edx.org/certificates/f6dbb876e2ff4fb892d29c8969ee0ad0)
+- [UTAustinX - UT.7.20x: Foundations of Data Analysis - Part 2](https://courses.edx.org/certificates/6dceb43fee474ded91b636aa9a2393f1)
+- [UTx - BE101x: Behavioural Economics in Action](https://courses.edx.org/certificates/eb36c06c1fe94115a03dba6dcf7a0954)
+- [W3Cx - HTML5.1x: HTML5 Part 1: HTML5 Coding Essentials and Best Practices](https://courses.edx.org/certificates/78e46be5bed649f0a4807da1abf02563)
+- [W3Cx - HTML5.2x: HTML5 Part 2: Advanced Techniques for Designing HTML5 Apps](https://courses.edx.org/certificates/0c7e366ba014421691492d280d994368)
+
+---
+
+### MongoDB University
+
+- [M101JS: MongoDB for Node.js Developers](http://university.mongodb.com/course_completion/ba1e3078-e6e6-457e-a70d-d5fb9461)
+- [M101N: MongoDB for .NET Developers](http://university.mongodb.com/course_completion/a1cc995ed7f54976bc83eb41fd35ed39)
+- [M102: MongoDB for DBAs](http://university.mongodb.com/course_completion/69839fd2-7b66-482f-9e02-f8755f69)
+- [M123: Getting Started with MongoDB Atlas](http://university.mongodb.com/course_completion/9ee4f374-9c70-4cf5-aa83-d8416972)
+- [M201: MongoDB Performance](http://university.mongodb.com/course_completion/338c9d44-6f62-4d92-a418-f7b1d472)
+- [M310: MongoDB Security](http://university.mongodb.com/course_completion/66fbf3e9-67aa-4c90-b5f4-8577ecc2)
+- [M312: Diagnostics and Debugging](http://university.mongodb.com/course_completion/b1af2095-71ff-4689-b04b-46d2d1fe)
+
+---
+
+### Gymnasium
+
+- [Information Design and Visualization Fundamentals](https://www.credential.net/10138726)
+- [JQuery Building Blocks](https://www.credential.net/10138613)
+- [JavaScript Foundations](https://www.credential.net/10138724)
+- [Modern Web Design](https://www.credential.net/9ntvp63k)
+- [Responsive Web Design](https://www.credential.net/10138610)
+- [UX Fundamentals](https://www.credential.net/10138615)
+- [Writing for Web & Mobile](https://www.credential.net/10138727)
+
 ---
 
 ### Other
+
+- IELTS - British Council
 
 ## Volunteer Work
 
