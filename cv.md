@@ -1,4 +1,4 @@
-# Teodor Ivanov Kurtev
+# Curriculum Vitae(CV) - Teodor Ivanov Kurtev
 
 ## Summary
 
