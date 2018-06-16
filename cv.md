@@ -1,19 +1,28 @@
 # Curriculum Vitae(CV) - Teodor Ivanov Kurtev
 
+Email: teodor.ivanov92@gmail.com
+
+LinkedIn: [https://www.linkedin.com/in/teodorkurtev/](https://www.linkedin.com/in/teodorkurtev/)
+
+GitHub: [https://github.com/Teodor92](https://github.com/Teodor92)
+
+StackOverflow: [https://stackoverflow.com/users/3301570/teodor-kurtev](https://stackoverflow.com/users/3301570/teodor-kurtev)
+
 ## Summary
 
 Doing stuff with .NET, ASP.NET MVC, Angular and Roslyn. Also, I love and hate JavaScript at the same time(thank you TypeScript!). And let's sprinkle a bit of Python to keep things interesting.
 
 ## Work Experience
 
-**Honeybee Solutions** - **Lead Software Engineer** - Sofia, Bulgaria - _October 2017 - Now_
+**Synchronoss Technologies** - **Lead Software Engineer** - Sofia, Bulgaria - _October 2017 - Now_
 
 As a Lead Software Engineer, my duties included:
 
-- Created and implementing code standards and practices to ensure high code quality.
+- Created and implementing code standards and practices to ensure high code quality across all projects in the Bulgaria branch.
 - Organize work activities and ensure there are no blockers in my team.
 - Design, implement and test features in several projects. MEAN was the software technology stack of choice for most project, although some of my duties included work on several .NET projects.
 - Organize and take part in team activities like daily Stand-ups, Code Review sessions, etc.
+- Mentor junior developers and ensure there technological and business up-skilling goes smoothly.
 
 ---
 **Independent Contractor** - **Software Engineer** - _September 2011 - Now_
