@@ -298,6 +298,11 @@ A practical research project dedicated to developing a new approach for automati
 
 ## Volunteer Work
 
+**Telerik Academy** - **Mentor** - Sofia, Bulgaria
+
+I was in charge of providing technical and career help to a group of mentees that were par of the Telerik Academy Alpha academy.
+
+---
 **Software University Foundation** - **Technical Writer** - Sofia, Bulgaria
 
 Wrote several chapters for the 'Introduction to Programming' books published by the Software University Foundation.
