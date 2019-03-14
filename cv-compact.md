@@ -125,43 +125,29 @@ Python 3, PyLab, PyPlot, Flask, PyUnit, Haskell, Java, Rascal, Haskell, R.
 
 E-learning system consisting of various modules built using the .NET stack (ASP.NET MVC/Web API, Microsoft SQL Server, Entity Framework), HTML5, JavaScript, KendoUI, etc.
 
----
-
 ### Open Judge System(OJS)
 
 Various contributions to the OJS Open Source project and the Software University fork, including internationalization, refactoring, additional features and more.
-
----
 
 ### "Programming=++ Algorithms;" translation and refactoring
 
 Java and C# translation and refactoring for the source code of the book "Programming=++ Algorithms;".
 
----
-
 ### MoreDotNet
 
 A combination of useful extension methods and helper methods for the .NET Framework and the .NET Standard.
-
----
 
 ### AspNetCore.Mvc.HttpActionResult
 
 A collection of HTTP status code action results and controller extension methods for ASP.NET Core MVC projects.
 
----
-
 ### Survey Domain Specific Language(SDSL)
 
 An internal domain specific language for easy creation of printable surveys. The language was created using the .NET Framework and ANTLR as a parser generator.
 
----
-
 ### Programming Basics Books
 
 Taking part in the writing and editing of the "Programming Basics with C#/Java/JavaScript/Python" books.
-
----
 
 ### FactorR
 
