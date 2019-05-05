@@ -6,7 +6,7 @@ LinkedIn: [@teodorkurtev](https://www.linkedin.com/in/teodorkurtev/)
 
 GitHub: [@Teodor92](https://github.com/Teodor92)
 
-StackOverflow: [@teodor-kurtev](https://stackoverflow.com/users/3301570/teodor-kurtev)
+StackOverflow: [@teodor-kurtev](https://stackoverflow.com/users/2109394/teodor-kurtev)
 
 ## Summary
 
