@@ -2,11 +2,11 @@
 
 Email: teodor.ivanov92@gmail.com
 
-LinkedIn: [https://www.linkedin.com/in/teodorkurtev/](https://www.linkedin.com/in/teodorkurtev/)
+LinkedIn: [@teodorkurtev](https://www.linkedin.com/in/teodorkurtev/)
 
-GitHub: [https://github.com/Teodor92](https://github.com/Teodor92)
+GitHub: [@Teodor92](https://github.com/Teodor92)
 
-StackOverflow: [https://stackoverflow.com/users/3301570/teodor-kurtev](https://stackoverflow.com/users/3301570/teodor-kurtev)
+StackOverflow: [@teodor-kurtev](https://stackoverflow.com/users/3301570/teodor-kurtev)
 
 ## Summary
 
@@ -149,9 +149,9 @@ An internal domain specific language for easy creation of printable surveys. The
 
 Taking part in the writing and editing of the "Programming Basics with C#/Java/JavaScript/Python" books.
 
-### FactorR
+### Strict linting configurations
 
-A practical research project dedicated to developing a new approach for automatically recommending move module refactorings. The implementation of the new approach was done using the .NET Framework and the Roslyn compiler. R and Python were used for data analysis and visualization.
+Various presets for strict linting in TypeScript, JavaScript, Markdown, SCSS, etc.
 
 ## Certificates
 
