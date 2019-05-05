@@ -2,11 +2,11 @@
 
 Email: teodor.ivanov92@gmail.com
 
-LinkedIn: [@teodorkurtev](https://www.linkedin.com/in/teodorkurtev/){:target="_blank"}
+LinkedIn: [@teodorkurtev](https://www.linkedin.com/in/teodorkurtev/)
 
-GitHub: [@Teodor92](https://github.com/Teodor92){:target="_blank"}
+GitHub: [@Teodor92](https://github.com/Teodor92)
 
-StackOverflow: [@teodor-kurtev](https://stackoverflow.com/users/2109394/teodor-kurtev){:target="_blank"}
+StackOverflow: [@teodor-kurtev](https://stackoverflow.com/users/2109394/teodor-kurtev)
 
 ## Summary
 
