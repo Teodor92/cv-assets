@@ -30,7 +30,7 @@ Building variety of application using .NET, JavaScript/TypeScript/Node.js, and P
 
 - Translation of business needs into software requirements and finding out what the client, really needs (Requirements engineering).
 - Designing, implementation, testing, documentation and deployment of front-end and back-end software solutions.
-- Support of the solution in question.
+- Support of existing solutions.
 
 ### **Software Improvement Group(SIG)** - **Software Engineer/Researcher** - Amsterdam, The Netherlands - _January 2017 - August 2017_
 
@@ -63,7 +63,7 @@ As the first developer at Software University - I was tasked with designing, dev
 - Development of an electronic learning system from scratch- electronic payment, teamwork management, CMS capabilities, course management and a lot more.
 - Used technologies - .NET, ASP.NET MVC, Entity Framework, HTMLS, JavaScript, KendoUI etc.
 
-### **Telerik Academy** - **Intern Software Engineer** - Sofia, Bulgaria - _September 2011 - October 2013_
+### **Telerik Academy** - **Trainee Software Engineer** - Sofia, Bulgaria - _September 2011 - October 2013_
 
 A fast paced introduction to software development, including
 
@@ -161,7 +161,7 @@ I have various certificates from Microsoft, Telerik Academy, edX, Stanford Lagun
 
 ### **Telerik Academy** - **Mentor** - Sofia, Bulgaria
 
-I was in charge of providing technical and career help to a group of mentees that were par of the Telerik Academy Alpha academy.
+I was in charge of providing technical and career help to a group of mentees that were part of the Telerik Academy Alpha.
 
 ### **Software University Foundation** - **Technical Writer** - Sofia, Bulgaria
 
