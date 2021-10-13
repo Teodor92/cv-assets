@@ -14,7 +14,15 @@ Building high quality front-end and back-end solution for variety of business pr
 
 ## Work Experience
 
-### **Synchronoss Technologies** - **Lead Software Engineer** - Sofia, Bulgaria - _October 2017 - Now_
+### **News UK** - **Lead Software Engineer** - Sofia, Bulgaria - _August 2020 - Present_
+
+I was part of the MAIN Technology Group, that dealt with Monetization, Access and Identity. The majority of my work included developing new capabilities for project using GoLang and AWS for Infrastructure.
+
+### **SoftUni** - **Part-time Lecturer** - Sofia, Bulgaria - _May 2020 - Present_
+
+As a lecturer I take part in several courses organized by SoftUni.
+
+### **Synchronoss Technologies** - **Lead Software Engineer** - Sofia, Bulgaria - _October 2017 - August2020_
 
 As a Lead Software Engineer, my duties included:
 
@@ -98,9 +106,9 @@ JavaScript ES6+, TypeScript, Angular 2+, RxJS, NgRx, Express, MongoDB, Mongoose,
 
 C#, ASP.NET MVC, ASP.NET WebAPI, ASP.NET SignalR, ASP.NET Core, LINQ, ADO.NET, Entity Framework, Entity Framework Core, Roslyn, MEF, Visual Studio Add-on Development, NugGet, xUnit, NUnit, MSUnit, KendoUI MVC, WPF, WCF, ASP.NET WebForms, WinForms, Windows Services, StyleCop, FxCop.
 
-### Databases and Storage
+### Infrastructure, Databases and Storage
 
-Microsoft SQL Server, MySQL/MariaDB, MongoDB, Redis, Consul, SQL, T-SQL, XML, JSON, JSON Schema.
+Amazon Web Services (AWS), Docker, MySQL/MariaDB, Microsoft SQL Server, MongoDB, Redis, Consul, SQL, T-SQL, XML, JSON, JSON Schema.
 
 ### Computer Science Concepts
 
@@ -109,53 +117,11 @@ Object Oriented Programming and Design, Functional Programming, Design Patterns,
 ### Dev Tools
 
 Atlassian tools (JIRA, Confluence, BitBucket, HipChat,
-Bamboo), CI Tools(Jenkins, AppVeyor), Git, SVN, TFS, GitLab, GitHub, Travis, Docker.
+Bamboo), CI Tools(Jenkins, CircleCI, AppVeyor), Git, SVN, TFS, GitLab, GitHub, Travis.
 
 ### Soft Skills
 
 Self-motivation, Teamwork, Creativity, Communication, Decision Making, Time Management, Conflict Resolution, Leadership, Adaptability.
-
-### Other
-
-Python 3, PyLab, PyPlot, Flask, PyUnit, Haskell, Java, Rascal, Haskell, R.
-
-## Projects and Open Source Contribution
-
-### Software University Learning System(SULS)
-
-E-learning system consisting of various modules built using the .NET stack (ASP.NET MVC/Web API, Microsoft SQL Server, Entity Framework), HTML5, JavaScript, KendoUI, etc.
-
-### Open Judge System(OJS)
-
-Various contributions to the OJS Open Source project and the Software University fork, including internationalization, refactoring, additional features and more.
-
-### "Programming=++ Algorithms;" translation and refactoring
-
-Java and C# translation and refactoring for the source code of the book "Programming=++ Algorithms;".
-
-### MoreDotNet
-
-A combination of useful extension methods and helper methods for the .NET Framework and the .NET Standard.
-
-### AspNetCore.Mvc.HttpActionResult
-
-A collection of HTTP status code action results and controller extension methods for ASP.NET Core MVC projects.
-
-### Survey Domain Specific Language(SDSL)
-
-An internal domain specific language for easy creation of printable surveys. The language was created using the .NET Framework and ANTLR as a parser generator.
-
-### Programming Basics Books
-
-Taking part in the writing and editing of the "Programming Basics with C#/Java/JavaScript/Python" books.
-
-### Strict linting configurations
-
-Various presets for strict linting in TypeScript, JavaScript, Markdown, SCSS, etc.
-
-## Certificates
-
-I have various certificates from Microsoft, Telerik Academy, edX, Stanford Lagunita, MongoDB University, British Council and more.
 
 ## Volunteer Work
 
