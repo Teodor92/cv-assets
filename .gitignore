@@ -1,0 +1,26 @@
+
+# dependencies
+node_modules
+
+# IDEs
+/.idea
+/.vscode
+
+# misc
+.npmrc
+.DS_Store
+/.sass-cache
+/coverage/*
+npm-debug.log
+/.chrome
+
+# Project specific
+/coverage
+/dist
+/test
+/demo
+/lib
+/test/vendor.js
+/test/vendor.map.js
+/webpack/vendor-manifest.json
+mocha.json

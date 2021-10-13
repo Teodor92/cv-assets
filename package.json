@@ -1,0 +1,23 @@
+{
+  "name": "cv-assets",
+  "version": "1.0.0",
+  "description": "Personal CV Asssets for Teodor Kurtev",
+  "main": "index.js",
+  "scripts": {
+    "lint": "markdownlint \"./**/*.md\" --ignore \"node_modules/**\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teodor92/cv-assets.git"
+  },
+  "author": "Teodor Kurtev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Teodor92/cv-assets/issues"
+  },
+  "homepage": "https://github.com/Teodor92/cv-assets#readme",
+  "dependencies": {
+    "markdownlint": "0.24.0",
+    "markdownlint-cli": "0.29.0"
+  }
+}
