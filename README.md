@@ -10,7 +10,7 @@ StackOverflow: [@teodor-kurtev](https://stackoverflow.com/users/2109394/teodor-k
 
 ## Summary
 
-Building high quality front-end and back-end solution for variety of business problems, using the .NET, JavaScript/TypeScript/Node.js and Python stacks.
+Building high quality front-end and back-end solution for variety of business problems, using the JavaScript/TypeScript/Node.js, .NET and GoLang stacks.
 
 ## Work Experience
 
