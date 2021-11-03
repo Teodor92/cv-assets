@@ -1,4 +1,4 @@
-theme: jekyll-swiss
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
