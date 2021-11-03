@@ -4,7 +4,8 @@
   "description": "Personal CV Asssets for Teodor Kurtev",
   "main": "index.js",
   "scripts": {
-    "lint": "markdownlint \"./**/*.md\" --ignore \"node_modules/**\""
+    "lint": "markdownlint \"./**/*.md\" --ignore \"node_modules/**\"",
+    "gen-pdf": "npx markdown-pdf ./README.md"
   },
   "repository": {
     "type": "git",
