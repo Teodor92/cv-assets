@@ -100,15 +100,15 @@ A fast paced introduction to software development, including
 
 ### MEAN Stack
 
-JavaScript ES6+, TypeScript, Angular 2+, RxJS, NgRx, Express, MongoDB, Mongoose, lodash, JQuery, KendoUI, NPM, ESLint/TSLint, HTML, CSS, Jasmine, Chai, Mocha, Sinon, Karma, Jest.
+JavaScript ES6+, TypeScript, Angular 2+, RxJS, NgRx, Express, MongoDB, Mongoose, lodash, JQuery, KendoUI, NPM, ESLint/TSLint, HTML, CSS, Jasmine, Chai, Mocha, Sinon, Karma, Jest, etc.
 
-### .NET Stack
+### GoLang Stack
 
-C#, ASP.NET MVC, ASP.NET WebAPI, ASP.NET SignalR, ASP.NET Core, LINQ, ADO.NET, Entity Framework, Entity Framework Core, Roslyn, MEF, Visual Studio Add-on Development, NugGet, xUnit, NUnit, MSUnit, KendoUI MVC, WPF, WCF, ASP.NET WebForms, WinForms, Windows Services, StyleCop, FxCop.
+GoLang, Echo, go-jet, ginko, gomega, logrus, zap, etc.
 
 ### Infrastructure, Databases and Storage
 
-Amazon Web Services (AWS), Docker, MySQL/MariaDB, Microsoft SQL Server, MongoDB, Redis, Consul, SQL, T-SQL, XML, JSON, JSON Schema.
+Amazon Web Services (AWS), Docker, MySQL/MariaDB, Microsoft SQL Server, MongoDB, Redis, Consul, SQL, T-SQL, XML, JSON, JSON Schema, OpenAPI, OAuht2, OIDC.
 
 ### Computer Science Concepts
 
@@ -118,6 +118,10 @@ Object Oriented Programming and Design, Functional Programming, Design Patterns,
 
 Atlassian tools (JIRA, Confluence, BitBucket, HipChat,
 Bamboo), CI Tools(Jenkins, CircleCI, AppVeyor), Git, SVN, TFS, GitLab, GitHub, Travis.
+
+### .NET Stack
+
+C#, ASP.NET MVC, ASP.NET WebAPI, ASP.NET SignalR, ASP.NET Core, LINQ, ADO.NET, Entity Framework, Entity Framework Core, Roslyn, MEF, Visual Studio Add-on Development, NugGet, xUnit, NUnit, MSUnit, KendoUI MVC, WPF, WCF, ASP.NET WebForms, WinForms, Windows Services, StyleCop, FxCop.
 
 ### Soft Skills
 
