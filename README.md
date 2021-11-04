@@ -16,7 +16,7 @@ Building high quality front-end and back-end solution for variety of business pr
 
 ### **News UK** - **Lead Software Engineer** - Sofia, Bulgaria - _August 2020 - Present_
 
-I was part of the MAIN Technology Group, that dealt with Monetization, Access and Identity. The majority of my work included developing new capabilities for project using GoLang and AWS for Infrastructure.
+I am part of the MAIN Technology Group, that dealt with Monetization, Access and Identity. The majority of my work included developing new capabilities for project using GoLang and AWS for Infrastructure.
 
 ### **SoftUni** - **Part-time Lecturer** - Sofia, Bulgaria - _May 2020 - Present_
 
