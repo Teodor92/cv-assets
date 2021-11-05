@@ -20,7 +20,7 @@ I am part of the MAIN Technology Group, that deals with Monetization, Access and
 
 ### **SoftUni** - **Part-time Lecturer** - Sofia, Bulgaria - _May 2020 - Present_
 
-As a lecturer I take part in several courses organized by SoftUni.
+As a lecturer I take part in several courses organized by SoftUni like Programing Basics and Programing Fundamentals.
 
 ### **Synchronoss Technologies** - **Lead Software Engineer** - Sofia, Bulgaria - _October 2017 - August2020_
 
@@ -104,9 +104,9 @@ JavaScript ES6+, TypeScript, Angular 2+, RxJS, NgRx, Express, MongoDB, Mongoose,
 
 ### GoLang Stack
 
-GoLang, Echo, go-jet, ginko, gomega, logrus, zap, etc.
+GoLang, echo, go-jet, ginko, gomega, logrus, zap, etc.
 
-### Infrastructure, Databases and Storage
+### Infrastructure, Databases, Storage and Standards
 
 Amazon Web Services (AWS), Docker, MySQL/MariaDB, Microsoft SQL Server, MongoDB, Redis, Consul, SQL, T-SQL, XML, JSON, JSON Schema, OpenAPI, OAuht2, OIDC.
 
@@ -125,7 +125,7 @@ C#, ASP.NET MVC, ASP.NET WebAPI, ASP.NET SignalR, ASP.NET Core, LINQ, ADO.NET, E
 
 ### Soft Skills
 
-Self-motivation, Teamwork, Creativity, Communication, Decision Making, Time Management, Conflict Resolution, Leadership, Adaptability.
+Self-motivation, Teamwork, Creativity, Communication, Decision Making, Time Management, Conflict Resolution, Leadership, Adaptability, Agile Methodologies.
 
 ## Volunteer Work
 
