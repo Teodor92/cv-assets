@@ -108,7 +108,7 @@ GoLang, echo, go-jet, ginko, gomega, logrus, zap, etc.
 
 ### Infrastructure, Databases, Storage and Standards
 
-Amazon Web Services (AWS), Docker, MySQL/MariaDB, Microsoft SQL Server, MongoDB, Redis, Consul, SQL, T-SQL, XML, JSON, JSON Schema, OpenAPI, OAuht2, OIDC.
+Amazon Web Services (Lambda, ECR, SQS, SNS, SES, etc.), Docker, MySQL/MariaDB, Microsoft SQL Server, MongoDB, Redis, Consul, SQL, T-SQL, XML, JSON, JSON Schema, OpenAPI, OAuht2, OIDC.
 
 ### Computer Science Concepts
 
