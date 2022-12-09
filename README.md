@@ -14,13 +14,24 @@ Building high quality front-end and back-end solution for variety of business pr
 
 ## Work Experience
 
-### **News UK** - **Lead Software Engineer** - Sofia, Bulgaria - _August 2020 - January 2022_
+### **Moteefe** - **Senior Software Engineer** - Sofia, Bulgaria - _January 2022 - Present_
 
-I am part of the MAIN Technology Group, that deals with Monetization, Access and Identity. The majority of my work includes developing new capabilities for project using GoLang and AWS for Infrastructure, researching new solutions and collaborating with stakeholders, helping with recruitment and more.
+As part of Moteefes' tech team, I was involved in:
+
+- Refining, defining, developing, testing, deploying and supporting several end to end features, like payment integrations with Stripe and PayPal/integrations with headless CMS systems, cart recovery emails, etc
+- Creating new Microservices and splitting existing ones.
+- Logging, monitoring and analyzing the metrics of our systems and applying bugfix or escalating the issues when needed.
+- Contributing to internal code quality initiatives.
+- Mentoring and sharing knowledge whenever possible.
+- All of the above was achieved via TypeScript, React, Node.js and deployed on AWS.
 
 ### **SoftUni** - **Part-time Lecturer** - Sofia, Bulgaria - _May 2020 - Present_
 
 As a lecturer I take part in several courses organized by SoftUni like Programing Basics and Programing Fundamentals.
+
+### **News UK** - **Lead Software Engineer** - Sofia, Bulgaria - _August 2020 - January 2022_
+
+I am part of the MAIN Technology Group, that deals with Monetization, Access and Identity. The majority of my work includes developing new capabilities for project using GoLang and AWS for Infrastructure, researching new solutions and collaborating with stakeholders, helping with recruitment and more.
 
 ### **Synchronoss Technologies** - **Lead Software Engineer** - Sofia, Bulgaria - _October 2017 - August 2020_
 
