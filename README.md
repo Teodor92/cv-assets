@@ -14,7 +14,7 @@ Building high quality front-end and back-end solution for variety of business pr
 
 ## Work Experience
 
-### **News UK** - **Lead Software Engineer** - Sofia, Bulgaria - _August 2020 - Present_
+### **News UK** - **Lead Software Engineer** - Sofia, Bulgaria - _August 2020 - January 2022_
 
 I am part of the MAIN Technology Group, that deals with Monetization, Access and Identity. The majority of my work includes developing new capabilities for project using GoLang and AWS for Infrastructure, researching new solutions and collaborating with stakeholders, helping with recruitment and more.
 
@@ -22,7 +22,7 @@ I am part of the MAIN Technology Group, that deals with Monetization, Access and
 
 As a lecturer I take part in several courses organized by SoftUni like Programing Basics and Programing Fundamentals.
 
-### **Synchronoss Technologies** - **Lead Software Engineer** - Sofia, Bulgaria - _October 2017 - August2020_
+### **Synchronoss Technologies** - **Lead Software Engineer** - Sofia, Bulgaria - _October 2017 - August 2020_
 
 As a Lead Software Engineer, my duties included:
 
