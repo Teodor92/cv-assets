@@ -21,4 +21,22 @@ jobs:
           node-version: 'lts/*'
       - run: npm ci
       - run: npm run lint
+  converttopdf:
+    name: Build PDF
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_dir: README.md
+          output_dir: README.pdf
+        #   images_dir: docs/images
+          # for example <img src="./images/file-name.png">
+        #   image_import: ./images
+          # Default is true, can set to false to only get PDF files
+          build_html: false
+      - uses: actions/upload-artifact@v1
+        with:
+          name: docs
+          path: .
 
