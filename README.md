@@ -111,7 +111,7 @@ A fast paced introduction to software development, including
 
 ### MEAN Stack
 
-JavaScript ES6+, TypeScript, Angular 2+, RxJS, NgRx, Express, MongoDB, Mongoose, lodash, JQuery, KendoUI, NPM, ESLint/TSLint, HTML, CSS, Jasmine, Chai, Mocha, Sinon, Karma, Jest, etc.
+JavaScript ES6+, TypeScript, Angular 2+, React, Next.js, Nest.js, RxJS, NgRx, Express, MongoDB, Mongoose, lodash, JQuery, KendoUI, NPM, ESLint/TSLint, HTML, CSS, Jasmine, Chai, Mocha, Sinon, Karma, Jest, etc.
 
 ### GoLang Stack
 
@@ -140,9 +140,13 @@ Self-motivation, Teamwork, Creativity, Communication, Decision Making, Time Mana
 
 ## Volunteer Work
 
+### **Mentor the Young** - **Mentor** - Sofia, Bulgaria
+
+Sharing knowledge and experience, while helping young professionals with projects that influence their personal development and work skills.
+
 ### **ABLE** - **Mentor** - Sofia, Bulgaria
 
-Sharing knowledge and experience, while helping students with projects that influence there personal development.
+Sharing knowledge and experience, while helping students with projects that influence their personal development.
 
 ### **Telerik Academy** - **Mentor** - Sofia, Bulgaria
 
