@@ -91,10 +91,6 @@ A fast paced introduction to software development, including
 
 ## Education
 
-### **Entrepreneurship** - **9 Academy** - Sofia, Bulgaria
-
-A practical program that revolves around entrepreneurship, marketing, strategy, PR, HR and other aspects of a successful business organization.
-
 ### **MSc Software Engineering** - **University of Amsterdam** - Amsterdam, The Netherlands - 5.9/6 GPA
 
 - An intense, one year, master program in software engineering.
@@ -110,6 +106,10 @@ A practical program that revolves around entrepreneurship, marketing, strategy, 
 
 - Highly intensive one-year coding boot camp concentrated on JavaScript, .NET and related technologies and topics.
 - The program had a specific focus on High Quality Code and how to apply it in practice.
+
+### **Entrepreneurship** - **9 Academy** - Sofia, Bulgaria
+
+A practical program that revolves around entrepreneurship, marketing, strategy, PR, HR and other aspects of a successful business organization.
 
 ## Skills
 
