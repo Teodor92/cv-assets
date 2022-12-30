@@ -14,7 +14,7 @@ Building high quality front-end and back-end solution for variety of business pr
 
 ## Work Experience
 
-### **Moteefe** - **Senior Software Engineer** - Sofia, Bulgaria - _January 2022 - Present_
+### **Moteefe** - **Senior Software Engineer** - Remote - _January 2022 - Present_
 
 As part of Moteefes' tech team, I was involved in:
 
