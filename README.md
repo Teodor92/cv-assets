@@ -1,6 +1,6 @@
 # Teodor Ivanov Kurtev - Curriculum Vitae(CV)
 
-Email: teodor.ivanov92@gmail.com
+Email: <teodor.ivanov92@gmail.com>
 
 LinkedIn: [@teodorkurtev](https://www.linkedin.com/in/teodorkurtev/)
 
